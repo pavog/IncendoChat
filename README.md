@@ -98,9 +98,9 @@ messages:
   channel-left: '&6&lIncendoChat&8> &7You left channel: %channel%'
 ```
 
-## Maven Repo
+## Maven Repo [![](https://jitpack.io/v/Sauilitired/IncendoChat.svg)](https://jitpack.io/#Sauilitired/IncendoChat)
 
-We use [JitPack](https://jitpack.io/#Sauilitired/IncendoCha)
+We use [JitPack](https://jitpack.io/#Sauilitired/IncendoCha) 
 
 Repository:
 ```xml
@@ -117,6 +117,8 @@ Dependency:
 <dependency>
     <groupId>com.github.Sauilitired</groupId>
     <artifactId>IncendoChat</artifactId>
-    <version>master-4205f0f492-1</version>
+    <version>master-XXXXXXXX</version>
 </dependency>
 ```
+
+**Note: Use the version shown on the badge to stay up to date!**
